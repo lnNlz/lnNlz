@@ -1,3 +1,4 @@
-github profile @lnNlz
-- backup script
-- public project scripts!
+github profile for nilz
+
+contains backup code for projects and for collaborative works!
+[actual readme in progress]
